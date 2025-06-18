@@ -1,5 +1,6 @@
 # About Me
 I am an undergrad student at IIT Madras pursuing a Bachelors in Metallurgical and Materials Engineering and an integrated Masters in Computational Engineering. Blah Blah Blah...
+[LinkedIn](https://www.linkedin.com/in/jaswanth-vg-7a1413234/)
 
 # Projects
 ## Lattice Project
