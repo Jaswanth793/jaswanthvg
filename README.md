@@ -1,7 +1,9 @@
 # About Me
-> I am an undergrad student at IIT Madras pursuing a Bachelors in Metallurgical and Materials Engineering and an integrated Masters in Computational Engineering. Blah Blah Blah...<br>
+> I am an undergrad student at IIT Madras pursuing a Bachelor's in Metallurgical and Materials Engineering and an integrated Master's in Computational Engineering.<br>
 [LinkedIn](https://www.linkedin.com/in/jaswanth-vg-7a1413234/)
 
+<br>
+<br>
 # Projects
 ## Lattice Project
 Description goes here
@@ -12,8 +14,8 @@ Description goes here
 ## Particle Anisotropy Project
 Description goes here
 
-
-
+<br>
+<br>
 # Course Projects
 ## CFD Project
 Description goes here
